@@ -1,0 +1,29 @@
+[?2004l
+Enqueue positive numbers (enter 0 to stop) : 1 2 3 4 5 6 7 8 9 0
+
+print queue: 1, 2, 3, 4, 5, 6, 7, 8, 9, 
+
+How mant numbers to be removed from queue: 5
+
+print queue: 6, 7, 8, 9, 
+
+Enqueue string (enter exit) : aaa bbb ccc ddd eee fff exit
+
+print queue: aaa, bbb, ccc, ddd, eee, fff, 
+
+How mant strings to be removed from queue: 3
+
+print queue: ddd, eee, fff, 
+
+Employee's id, name, dept (enter 0 to stop) : 1 bob CSE
+2 mary MATH   ath
+3 joe Art
+4 ellen CSE
+0 no no
+
+print queue: 1 bob CSE, 2 mary Math, 3 joe Art, 4 ellen CSE, 
+
+How mant employees to be removed from queue: 2
+
+print queue: 3 joe Art, 4 ellen CSE, 
+[?2004h
